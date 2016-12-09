@@ -4,13 +4,3 @@
   url:
   excerpt:
   image:
-
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: #Need an image
-
-- title: Blog Posts
-  url: /_posts/
-  excerpt: "Things I’ve posted."
-  image: #Need an image
